@@ -1,0 +1,11 @@
+# Google
+User-agent: Googlebot
+Allow: /
+
+# Bing
+User-agent: msnbot
+Disallow: /kontakt/
+
+# Group 3
+User-agent: *
+Allow: /
